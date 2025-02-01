@@ -12,7 +12,7 @@
 
 ⚡ Fun fact: I love sports and playing on-line chess
 
-#### Let's connect!
+#### Let's connect! 🌎
 
 <!--
 **leandroptavares/leandroptavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
