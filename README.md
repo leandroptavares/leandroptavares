@@ -2,7 +2,7 @@
 
 ### About me
 
-<p>I'm a Junior Full-Stack Web Developer based in Amsterdam. After 10 years as a sports journalist, I transitioned into digital products in 2020. From 2022 to 2024, I worked as a Product Manager. Now, I'm fully focused on programming and web development.</p>
+<p>I'm a Full-Stack Web Developer based in Amsterdam. After 10 years as a sports journalist, I transitioned into digital products in 2020. From 2022 to 2024, I worked as a Product Manager. Now, I'm fully focused on programming and web development.</p>
 
 👨🏽‍💻 Web Development Teaching Assistant at <a href="https://www.lewagon.com/amsterdam">Le Wagon</a>
 
