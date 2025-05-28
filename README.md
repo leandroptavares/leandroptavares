@@ -8,7 +8,7 @@
 
 📚 Web Development Teaching Assistant at <a href="https://www.lewagon.com/amsterdam">Le Wagon</a>
 
-🌱 Currently focusing on TypeScript and Vue.js
+🌱 Currently focusing on TypeScript, React and Vue.js
 
 👯 I’m looking to collaborate on exciting projects
 
