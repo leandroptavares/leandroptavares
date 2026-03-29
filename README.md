@@ -4,7 +4,7 @@
 
 <p>I'm a Full-Stack Web Developer based in Amsterdam. After 10 years as a sports journalist, I transitioned into digital products in 2020. From 2022 to 2024, I worked as a Product Manager. Now, I'm fully focused on programming and web development.</p>
 
-👨🏽‍💻 Full-Stack Developer at <a href="https://www.smartspotter.com/en-gb/spotters">Smartspotter</a>. Previously, Product Developer at <a href="https://www.foremore.com/">Foremore</a>
+👨🏽‍💻 Full-Stack Developer at <a href="https://www.smartspotter.com/en-gb/spotters">SmartSpotter</a>. Previously, Product Developer at <a href="https://www.foremore.com/">Foremore</a>
 
 
 ⚡ Fun fact: I love sports and playing on-line chess
